@@ -1,3 +1,4 @@
-Application with clean - project structure (./components | ./utils)
+Application with clean code - project structure (./components | ./utils)
 import/export - default | named 
+constants import/export
 Hooks - useState
