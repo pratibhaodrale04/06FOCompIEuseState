@@ -1,0 +1,3 @@
+Application with clean - project structure (./components | ./utils)
+import/export - default | named 
+Hooks - useState
